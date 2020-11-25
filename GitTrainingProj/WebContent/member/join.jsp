@@ -7,6 +7,6 @@
 <title>join.jsp</title>
 </head>
 <body>
-
+	<a href value="../index.jsp">링크 홈으로</a>
 </body>
 </html>
