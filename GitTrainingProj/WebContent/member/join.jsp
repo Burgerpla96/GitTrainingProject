@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>join.jsp</title>
 </head>
 <body>
-    <h2>안녕</h2>
-    ㄹㄴㅇㄹ
+
 </body>
 </html>
