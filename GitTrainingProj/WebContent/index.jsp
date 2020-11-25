@@ -8,6 +8,6 @@
 </head>
 <body>
     <h2>안녕</h2>
-    <h3>뭐지?</h3>
+    
 </body>
 </html>
